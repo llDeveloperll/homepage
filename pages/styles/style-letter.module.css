@@ -1,0 +1,8 @@
+.letter {
+    color: black;
+    padding: 5px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Calibri;
+    font-weight: bolder;
+  }
